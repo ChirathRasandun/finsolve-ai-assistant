@@ -1,10 +1,9 @@
-## 🏦 FinSolve AI Assistant
+#### 🏦 FinSolve AI Assistant
 RAG-Based Chatbot with Role-Based Access Control (RBAC)
 
-Built by Peter Pandey · AtliQ AI Consultancy · June 2026
 
 
-What is this?
+## What is this?
 FinSolve AI Assistant is an internal enterprise chatbot that lets employees query private company data using natural language. It uses RAG (Retrieval Augmented Generation) to ground answers in real documents, and RBAC to ensure each user only sees data their role permits.
 
 Features
