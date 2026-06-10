@@ -1,6 +1,4 @@
-# finsolve-ai-assistant
-RAG-based chatbot with RBAC, Guardrails and Monitoring
-🏦 FinSolve AI Assistant
+## 🏦 FinSolve AI Assistant
 RAG-Based Chatbot with Role-Based Access Control (RBAC)
 
 Built by Peter Pandey · AtliQ AI Consultancy · June 2026
