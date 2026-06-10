@@ -1,12 +1,12 @@
-#### 🏦 FinSolve AI Assistant
+# 🏦 FinSolve AI Assistant
 RAG-Based Chatbot with Role-Based Access Control (RBAC)
 
 
 
-## What is this?
+### What is this?
 FinSolve AI Assistant is an internal enterprise chatbot that lets employees query private company data using natural language. It uses RAG (Retrieval Augmented Generation) to ground answers in real documents, and RBAC to ensure each user only sees data their role permits.
 
-Features
+### Features
 
 ✅ RAG Pipeline — answers from real company documents via ChromaDB
 ✅ RBAC — 6 role levels with strict document-level filtering
@@ -16,7 +16,7 @@ Features
 ✅ Professional UI — dark themed Streamlit chat interface
 
 
-Tech Stack
+### Tech Stack
 LayerTechnologyBackendFastAPI + PythonLLMOpenAI GPT-3.5 TurboEmbeddingsHuggingFace all-MiniLM-L6-v2Vector StoreChromaDBRAG FrameworkLangChainAuthenticationJWT (python-jose)FrontendStreamlit
 
 Project Structure
