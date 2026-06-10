@@ -1,7 +1,7 @@
 # 🏦 FinSolve AI Assistant
 ### RAG-Based Chatbot with Role-Based Access Control (RBAC)
 
-> Built by Peter Pandey · AtliQ AI Consultancy · June 2026
+> Built by Chirath Rasandun· June 2026
 
 ---
 
